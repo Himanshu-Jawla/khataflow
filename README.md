@@ -8,7 +8,7 @@ Khataflow is a lightweight, modern invoicing and expense tracking tool built for
 
 -View real-time reports & analytics
 
--Secure & private — your data stays with you
+-Secure & private your data stays with you
 
 -Fast, minimal, and mobile-friendly
 
